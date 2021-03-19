@@ -1,4 +1,10 @@
 {
+  "name": "Lazy Loading JS",
+  "version": "1.0.0",
+  "author": "Leoantonios",
+  "description": "A page with lazy loading",
+  "repository": "github:leoantonios/lazyloading",
+  "homepage": "https://leantonios.github.io/lazyloading",
   "scripts": {
     "start": "snowpack dev",
     "build": "snowpack build",
